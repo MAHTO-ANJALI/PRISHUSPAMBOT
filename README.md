@@ -6,14 +6,14 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTO-ANJALI/count.svg" />
 </p>
 
 <h1 align="center"><b>⚡️𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
-<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://telegra.ph/file/05522e13c97752efe5e75.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://te.legra.ph/file/a646c3d6d8a3640103c6b.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS STRANGER SPAM BOT, That is the greatest pleasure we have !
@@ -51,4 +51,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/mastiwithfriendsx"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DANGEROUS_FIGHTER_GROUP"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>

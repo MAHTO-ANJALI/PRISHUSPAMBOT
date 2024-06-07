@@ -1,4 +1,4 @@
-### 🌷𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑🌷
+### 🌷𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦🌷
 
 <!--
 **itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
@@ -29,7 +29,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-SPAM-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/PRISHUSPAMBOT)
   
 </details>
 

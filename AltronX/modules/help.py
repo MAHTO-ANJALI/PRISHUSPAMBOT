@@ -2,7 +2,7 @@ from config import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
 from telethon import events, Button
 
 
-PythonHelp = f"⚡️ ​𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠 𝙃𝗘𝗟𝗣 𝙈𝗘𝗡𝗨 ⚡️\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SHIVANSHDEVS**"
+PythonHelp = f"⚡️ ​𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗦𝗣𝗔𝗠 𝙃𝗘𝗟𝗣 𝙈𝗘𝗡𝗨 ⚡️\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @N3ON_xD**"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -18,7 +18,7 @@ PythonHelp = f"⚡️ ​𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠 𝙃�
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                               "https://telegra.ph/file/05522e13c97752efe5e75.png",
+                               "https://te.legra.ph/file/a646c3d6d8a3640103c6b.jpg",
                                   caption=PythonHelp,
                                   buttons=[
            [
@@ -29,8 +29,8 @@ async def help(event):
             Button.inline("⚡️ ᴇxᴛʀᴀ ⚡️", data="extra"),
            ],
            [    
-            Button.url("⚡️ ᴄʜᴀɴɴᴇʟ ⚡️", "https://t.me/SHIVANSH474"),
-            Button.url("⚡️ sᴜᴘᴘᴏʀᴛ ⚡️", "https://t.me/MASTIWITHFRIENDSXD")
+            Button.url("⚡️ ᴏᴡɴᴇʀ ⚡️", "https://t.me/N3ON_xD"),
+            Button.url("⚡️ sᴜᴘᴘᴏʀᴛ ⚡️", "https://t.me/DANGEROUS_FIGHTER_GROUP")
            ],
            ],
            )
@@ -130,13 +130,13 @@ async def helpback(event):
             Button.inline("⚡️ ᴇxᴛʀᴀ ⚡️", data="extra"),
            ],
            [
-            Button.url("⚡️ ᴄʜᴀɴɴᴇʟ ⚡️", "https://t.me/SHIVANSH474"),
-            Button.url("⚡️ sᴜᴘᴘᴏʀᴛ ⚡️", "https://t.me/MASTIWITHFRIENDSXD")
+            Button.url("⚡️ ᴏᴡɴᴇʀ ⚡️", "https://t.me/N3ON_xD"),
+            Button.url("⚡️ sᴜᴘᴘᴏʀᴛ ⚡️", "https://t.me/DANGEROUS_FIGHTER_GROUP")
            ],
            ],
         )           
    else:
-        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
+        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝗣 𝗥 𝗶 𝗡 𝗖 𝗘⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"spam"))
@@ -155,7 +155,7 @@ async def help_spam(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             ) 
    else:
-        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
+        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝗣 𝗥 𝗶 𝗡 𝗖 𝗘⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"raid"))
@@ -174,7 +174,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )  
      else:
-        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
+        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝗣 𝗥 𝗶 𝗡 𝗖 𝗘⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
 
 
 @MK1.on(events.CallbackQuery(pattern=r"extra"))
@@ -193,4 +193,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
    else:
-        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
+        await event.answer("𝗣ᴀʜʟᴇ 𝗝ᴀᴀᴋᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ ⚡️𝗣 𝗥 𝗶 𝗡 𝗖 𝗘⚡️ 𝗞ᴏ 𝗪ᴏ 𝗧ᴜᴍʜᴇ 𝗦ᴜᴅᴏ 𝗗ᴇ 𝗗ᴇɢᴀ", cache_time=0, alert=True)
